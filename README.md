@@ -1,7 +1,7 @@
 # TestRepo
 
 ## Todo
-[x] - committing
-[] - Work with branches
+- [x] - committing
+- [] - Work with branches
 
 test push
